@@ -1,0 +1,39 @@
+[
+    {
+    "nombre": "Bernard Law",
+    "id": 1,
+    "imagen": "bernardLaw",
+    "profession": "Sistemas" 
+   },
+   {
+    "nombre": "Caroline Phan",
+    "id": 2,
+    "imagen": "carolinePhan",
+    "profession": "Construccion"
+   },
+   {
+    "nombre": "Eva Flint",
+    "id": 3,
+    "imagen": "evaFlint",
+    "profession": "Industrial"
+   },
+   {
+    "nombre": "Harry Green",
+    "id": 4,
+    "imagen": "harryGreen",
+    "profession": "Sistemas" 
+   },
+   {
+    "nombre": "Helen Mora",
+    "id": 5,
+    "imagen": "helenMora",
+    "profession": "Contabilidad"
+   },
+   {
+    "nombre": "Jimmy Sky",
+    "id": 6,
+    "imagen": "jimmySky",
+    "profession": "Administracion" 
+   }
+
+]
